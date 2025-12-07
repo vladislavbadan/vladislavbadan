@@ -1,7 +1,3 @@
-# 💫 Обо мне:
-💻 Пишу на Go<br>🤖 Люблю создавать Telegram-ботов  <br>🚀 Мечтаю автоматизировать всё<br>🎮 В свободное время играю в приставку  <br>☕ Верю, что кофе — это топливо для разработчика  
-
-
 ## 🌐 Как связаться:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vlad.badan@yandex.ru) 
 
